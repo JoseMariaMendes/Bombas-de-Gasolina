@@ -1,0 +1,52 @@
+\\edu\alunos$\11051917\my documents\visual studio 2013\Projects\BombasGasolina\BombasGasolina\bin\Debug\BombasGasolina.exe.config
+\\edu\alunos$\11051917\My Documents\Visual Studio 2013\Projects\BombasGasolina\BombasGasolina\bin\Debug\BombasGasolina.exe
+\\edu\alunos$\11051917\My Documents\Visual Studio 2013\Projects\BombasGasolina\BombasGasolina\bin\Debug\BombasGasolina.pdb
+\\edu\alunos$\11051917\My Documents\Visual Studio 2013\Projects\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.csprojResolveAssemblyReference.cache
+\\edu\alunos$\11051917\My Documents\Visual Studio 2013\Projects\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.Properties.Resources.resources
+\\edu\alunos$\11051917\My Documents\Visual Studio 2013\Projects\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.csproj.GenerateResource.Cache
+\\edu\alunos$\11051917\My Documents\Visual Studio 2013\Projects\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.exe
+\\edu\alunos$\11051917\My Documents\Visual Studio 2013\Projects\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.pdb
+\\edu\alunos$\11051917\My Documents\Visual Studio 2013\Projects\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.Bombas.resources
+\\edu\alunos$\11051917\My Documents\Visual Studio 2013\Projects\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.Menu.resources
+C:\Users\zemar\Desktop\Programação\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.csprojResolveAssemblyReference.cache
+C:\Users\zemar\Desktop\Programação\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.Bombas.resources
+C:\Users\zemar\Desktop\Programação\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.Menu.resources
+C:\Users\zemar\Desktop\Programação\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.Properties.Resources.resources
+C:\Users\zemar\Desktop\Programação\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.csproj.GenerateResource.cache
+C:\Users\zemar\Desktop\Programação\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.csproj.CoreCompileInputs.cache
+C:\Users\zemar\Desktop\Programação\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.exe
+C:\Users\zemar\Desktop\Programação\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.pdb
+C:\Users\zemar\Desktop\Programação\BombasGasolina\BombasGasolina\bin\Debug\BombasGasolina.exe.config
+C:\Users\zemar\Desktop\Programação\BombasGasolina\BombasGasolina\bin\Debug\BombasGasolina.exe
+C:\Users\zemar\Desktop\Programação\BombasGasolina\BombasGasolina\bin\Debug\BombasGasolina.pdb
+\\edu\alunos$\11051917\Desktop\BombasGasolina\BombasGasolina\bin\Debug\BombasGasolina.exe.config
+\\edu\alunos$\11051917\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.exe
+\\edu\alunos$\11051917\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.pdb
+\\edu\alunos$\11051917\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.csprojResolveAssemblyReference.cache
+\\edu\alunos$\11051917\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.Bombas.resources
+\\edu\alunos$\11051917\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.Menu.resources
+\\edu\alunos$\11051917\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.Properties.Resources.resources
+\\edu\alunos$\11051917\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.csproj.GenerateResource.Cache
+\\edu\alunos$\11051917\Desktop\BombasGasolina\BombasGasolina\bin\Debug\BombasGasolina.exe
+\\edu\alunos$\11051917\Desktop\BombasGasolina\BombasGasolina\bin\Debug\BombasGasolina.pdb
+C:\Users\zemar\Desktop\BombasGasolina\BombasGasolina\bin\Debug\BombasGasolina.exe.config
+C:\Users\zemar\Desktop\BombasGasolina\BombasGasolina\bin\Debug\BombasGasolina.exe
+C:\Users\zemar\Desktop\BombasGasolina\BombasGasolina\bin\Debug\BombasGasolina.pdb
+C:\Users\zemar\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.csprojAssemblyReference.cache
+C:\Users\zemar\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.Bombas.resources
+C:\Users\zemar\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.Menu.resources
+C:\Users\zemar\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.Properties.Resources.resources
+C:\Users\zemar\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.csproj.GenerateResource.cache
+C:\Users\zemar\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.csproj.CoreCompileInputs.cache
+C:\Users\zemar\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.exe
+C:\Users\zemar\Desktop\BombasGasolina\BombasGasolina\obj\Debug\BombasGasolina.pdb
+\\edu\alunos$\11051917\Desktop\BombasGasolina novo\BombasGasolina\bin\Debug\BombasGasolina.exe.config
+\\edu\alunos$\11051917\Desktop\BombasGasolina novo\BombasGasolina\obj\Debug\BombasGasolina.exe
+\\edu\alunos$\11051917\Desktop\BombasGasolina novo\BombasGasolina\obj\Debug\BombasGasolina.pdb
+\\edu\alunos$\11051917\Desktop\BombasGasolina novo\BombasGasolina\bin\Debug\BombasGasolina.exe
+\\edu\alunos$\11051917\Desktop\BombasGasolina novo\BombasGasolina\bin\Debug\BombasGasolina.pdb
+\\edu\alunos$\11051917\Desktop\BombasGasolina novo\BombasGasolina\obj\Debug\BombasGasolina.csprojResolveAssemblyReference.cache
+\\edu\alunos$\11051917\Desktop\BombasGasolina novo\BombasGasolina\obj\Debug\BombasGasolina.Bombas.resources
+\\edu\alunos$\11051917\Desktop\BombasGasolina novo\BombasGasolina\obj\Debug\BombasGasolina.Menu.resources
+\\edu\alunos$\11051917\Desktop\BombasGasolina novo\BombasGasolina\obj\Debug\BombasGasolina.Properties.Resources.resources
+\\edu\alunos$\11051917\Desktop\BombasGasolina novo\BombasGasolina\obj\Debug\BombasGasolina.csproj.GenerateResource.Cache
